@@ -1,0 +1,10 @@
+traffic_light.c:11:6:turn_red	8	static
+traffic_light.c:16:6:turn_green	8	static
+traffic_light.c:21:6:turn_yellow	8	static
+traffic_light.c:26:6:turn_red_2	8	static
+traffic_light.c:31:6:turn_green_2	8	static
+traffic_light.c:36:6:turn_yellow_2	8	static
+traffic_light.c:42:6:clear_light	8	static
+traffic_light.c:51:6:toggleRed	8	static
+traffic_light.c:55:6:toggleYellow	8	static
+traffic_light.c:59:6:toggleGreen	8	static
